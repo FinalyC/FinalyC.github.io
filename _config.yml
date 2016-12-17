@@ -1,10 +1,10 @@
 # Site settings
-title: BoB
+title: Finaly
 header-img: "img/autumn2.jpg"
 tagline: "忘川"  
 description: "生活，就是生而活着"  
 baseurl: ""
-url: "http://finaly.github.io/"  
+url: "http://finalyc.github.io/"  
 #url: "http://localhost:4000"
 
 # About/contact
@@ -39,7 +39,7 @@ paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: BoB/Beijing
+timezone: Finaly/Beijing
 
 # Title
 
