@@ -71,3 +71,5 @@ google_verify: UA-66863061-1
 bing_verify:
 
 # Links to include in footer navigation
+
+theme: jekyll-theme-architect
